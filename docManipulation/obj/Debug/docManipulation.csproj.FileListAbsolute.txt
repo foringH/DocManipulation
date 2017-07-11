@@ -1,0 +1,15 @@
+c:\users\acer\documents\visual studio 2013\Projects\docManipulation\docManipulation\bin\Debug\docManipulation.exe.config
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\bin\Debug\docManipulation.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\bin\Debug\docManipulation.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\bin\Debug\DocX.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\MainWindow.baml
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\App.g.cs
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation_MarkupCompile.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.g.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.exe
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\docManipulation\docManipulation\obj\Debug\docManipulation.csproj.ResolveComReference.cache
